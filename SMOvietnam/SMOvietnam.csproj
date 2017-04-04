@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8CBA74F0-64C8-4563-82BE-79C9AF194FF8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SMOvietnam</RootNamespace>
+    <AssemblyName>SMOvietnam</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GSMCommServer, Version=1.21.0.0, Culture=neutral, PublicKeyToken=515d87df384dcc81, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\GSMComm\DotNet40\GSMCommServer.dll</HintPath>
+    </Reference>
+    <Reference Include="GSMCommShared, Version=1.21.0.0, Culture=neutral, PublicKeyToken=515d87df384dcc81, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\GSMComm\DotNet40\GSMCommShared.dll</HintPath>
+    </Reference>
+    <Reference Include="GSMCommunication, Version=1.21.0.0, Culture=neutral, PublicKeyToken=515d87df384dcc81, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\GSMComm\DotNet40\GSMCommunication.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.8\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PDUConverter, Version=1.21.0.0, Culture=neutral, PublicKeyToken=515d87df384dcc81, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\GSMComm\DotNet40\PDUConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLite.NET, Version=0.21.1869.3794, Culture=neutral, PublicKeyToken=c273bd375e695f9c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SQLite.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addNumberMobi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addNumberMobi.Designer.cs">
+      <DependentUpon>addNumberMobi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addEmailToListSend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addEmailToListSend.Designer.cs">
+      <DependentUpon>addEmailToListSend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addServerSMTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addServerSMTP.Designer.cs">
+      <DependentUpon>addServerSMTP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addImg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addImg.Designer.cs">
+      <DependentUpon>addImg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addEmailToListCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addEmailToListCheck.Designer.cs">
+      <DependentUpon>addEmailToListCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mailsend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mailsend.Designer.cs">
+      <DependentUpon>mailsend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mailPending.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mailPending.Designer.cs">
+      <DependentUpon>mailPending.cs</DependentUpon>
+    </Compile>
+    <Compile Include="save_email_tmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="save_email_tmp.Designer.cs">
+      <DependentUpon>save_email_tmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="templateEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="templateEmail.Designer.cs">
+      <DependentUpon>templateEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageAttackMail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageAttackMail.Designer.cs">
+      <DependentUpon>ManageAttackMail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="setupSendSms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setupSendSms.Designer.cs">
+      <DependentUpon>setupSendSms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="setupdevice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setupdevice.Designer.cs">
+      <DependentUpon>setupdevice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities.cs" />
+    <Compile Include="Library.cs" />
+    <Compile Include="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="welcome.Designer.cs">
+      <DependentUpon>welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="addImg.resx">
+      <DependentUpon>addImg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addNumberMobi.resx">
+      <DependentUpon>addNumberMobi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addEmailToListSend.resx">
+      <DependentUpon>addEmailToListSend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addServerSMTP.resx">
+      <DependentUpon>addServerSMTP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addEmailToListCheck.resx">
+      <DependentUpon>addEmailToListCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mailsend.resx">
+      <DependentUpon>mailsend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mailPending.resx">
+      <DependentUpon>mailPending.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="save_email_tmp.resx">
+      <DependentUpon>save_email_tmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="templateEmail.resx">
+      <DependentUpon>templateEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageAttackMail.resx">
+      <DependentUpon>ManageAttackMail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setupSendSms.resx">
+      <DependentUpon>setupSendSms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setupdevice.resx">
+      <DependentUpon>setupdevice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welcome.resx">
+      <DependentUpon>welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\list.png" />
+    <None Include="Resources\1449530370_download.png" />
+    <None Include="Resources\1449530706_Draft.png" />
+    <None Include="Resources\1449531021_advancedsettings.png" />
+    <None Include="Resources\settingmail.png" />
+    <None Include="Resources\1449530990_preferences-contact-list.png" />
+    <None Include="Resources\tmpmail.png" />
+    <None Include="Resources\1449530956_open-email.png" />
+    <None Include="Resources\1449530848_x-office-document-template.png" />
+    <None Include="Resources\download.png" />
+    <None Include="Resources\taifilemau.png" />
+    <None Include="Resources\maildagui.png" />
+    <None Include="Resources\maildanglenchiendich.png" />
+    <None Include="Resources\luunhap.png" />
+    <None Include="Resources\chontemplate.png" />
+    <None Include="Resources\setup.png" />
+    <Content Include="sample.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{00000200-0000-0010-8000-00AA006D2EA4}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MSDAOSP">
+      <Guid>{E0E270C2-C0BE-11D0-8FE4-00A0C90A6341}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>1033</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MSHTML">
+      <Guid>{3050F1C5-98B5-11CF-BB82-00AA00BDCE0B}</Guid>
+      <VersionMajor>4</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sample.xlsx" />
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\is.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1423305250_circle-facebook_-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fbn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m2GbSfN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kftutW0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tBwlbak.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ciW8fxg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bghide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

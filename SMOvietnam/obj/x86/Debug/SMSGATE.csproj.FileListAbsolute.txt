@@ -1,0 +1,16 @@
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\bin\Debug\SMSGATE.exe
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\bin\Debug\SMSGATE.pdb
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.Properties.Resources.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.csproj.GenerateResource.Cache
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.exe
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.pdb
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.welcome.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.main.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.csprojResolveAssemblyReference.cache
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.csproj.ResolveComReference.cache
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.addNumberMobi.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\Interop.MSDAOSP.dll
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.addEmailToListSend.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.addServerSMTP.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.addImg.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMOvietnam.Properties.Resources.resources

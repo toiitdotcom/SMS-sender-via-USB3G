@@ -1,0 +1,352 @@
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\Interop.MSDAOSP.dll
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMOvietnam.csproj.ResolveComReference.cache
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.addImg.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.addNumberMobi.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.addEmailToListSend.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.addServerSMTP.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.main.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMSGATE.welcome.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMOvietnam.Properties.Resources.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMSGATE\obj\x86\Debug\SMOvietnam.csproj.GenerateResource.Cache
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\Interop.MSDAOSP.dll
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.ResolveComReference.cache
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\bin\Debug\SMOvietnam.exe.manifest
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\bin\Debug\SMOvietnam.application
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\bin\Debug\SMOvietnam.exe
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\bin\Debug\SMOvietnam.pdb
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\SMOvietnam.addImg.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\SMOvietnam.addNumberMobi.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListSend.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\SMOvietnam.addServerSMTP.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\SMOvietnam.main.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\SMOvietnam.welcome.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\SMOvietnam.Properties.Resources.resources
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.GenerateResource.Cache
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\SMOvietnam.TrustInfo.xml
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\SMOvietnam.exe.manifest
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\SMOvietnam.application
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\SMOvietnam.exe
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\SMOvietnam.pdb
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\obj\x86\Debug\Interop.SHDocVw.dll
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\bin\Debug\Newtonsoft.Json.dll
+E:\ProjectWinForm\SMSGATE\SMSGATE\SMOvietnam\bin\Debug\Newtonsoft.Json.xml
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\Interop.MSDAOSP.dll
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\Interop.SHDocVw.dll
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.ResolveComReference.cache
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.exe
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.pdb
+E:\ProjectWinForm\SMO\SMOvietnam\bin\Debug\SMOvietnam.exe.manifest
+E:\ProjectWinForm\SMO\SMOvietnam\bin\Debug\SMOvietnam.application
+E:\ProjectWinForm\SMO\SMOvietnam\bin\Debug\SMOvietnam.exe
+E:\ProjectWinForm\SMO\SMOvietnam\bin\Debug\SMOvietnam.pdb
+E:\ProjectWinForm\SMO\SMOvietnam\bin\Debug\Newtonsoft.Json.dll
+E:\ProjectWinForm\SMO\SMOvietnam\bin\Debug\Newtonsoft.Json.xml
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.csprojResolveAssemblyReference.cache
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addImg.resources
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addNumberMobi.resources
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListSend.resources
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addServerSMTP.resources
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.main.resources
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.SplashScreen.resources
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.welcome.resources
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.Properties.Resources.resources
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.GenerateResource.Cache
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.TrustInfo.xml
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.exe.manifest
+E:\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.application
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\Interop.MSDAOSP.dll
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\Interop.SHDocVw.dll
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.ResolveComReference.cache
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.exe
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.pdb
+E:\F\ProjectWinForm\SMO\SMOvietnam\bin\Debug\SMOvietnam.exe.manifest
+E:\F\ProjectWinForm\SMO\SMOvietnam\bin\Debug\SMOvietnam.application
+E:\F\ProjectWinForm\SMO\SMOvietnam\bin\Debug\SMOvietnam.exe
+E:\F\ProjectWinForm\SMO\SMOvietnam\bin\Debug\SMOvietnam.pdb
+E:\F\ProjectWinForm\SMO\SMOvietnam\bin\Debug\Newtonsoft.Json.dll
+E:\F\ProjectWinForm\SMO\SMOvietnam\bin\Debug\Newtonsoft.Json.xml
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.csprojResolveAssemblyReference.cache
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addImg.resources
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addNumberMobi.resources
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListSend.resources
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addServerSMTP.resources
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.main.resources
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.SplashScreen.resources
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.welcome.resources
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.Properties.Resources.resources
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.GenerateResource.Cache
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.TrustInfo.xml
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.exe.manifest
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.application
+E:\F\ProjectWinForm\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.setupdevice.resources
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\Interop.MSDAOSP.dll
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\Interop.SHDocVw.dll
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.ResolveComReference.cache
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.exe
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.pdb
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\SMOvietnam.exe.manifest
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\SMOvietnam.application
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\SMOvietnam.exe
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\SMOvietnam.pdb
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\Newtonsoft.Json.dll
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\Newtonsoft.Json.xml
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.csprojResolveAssemblyReference.cache
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addImg.resources
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addNumberMobi.resources
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListSend.resources
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addServerSMTP.resources
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.setupdevice.resources
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.main.resources
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.SplashScreen.resources
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.welcome.resources
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.Properties.Resources.resources
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.GenerateResource.Cache
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.TrustInfo.xml
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.exe.manifest
+D:\project\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.application
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\Interop.MSDAOSP.dll
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.ResolveComReference.cache
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.exe
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.pdb
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\SMOvietnam.exe.manifest
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\SMOvietnam.application
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\SMOvietnam.exe
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\SMOvietnam.pdb
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.csprojResolveAssemblyReference.cache
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addImg.resources
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addNumberMobi.resources
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListSend.resources
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addServerSMTP.resources
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.setupdevice.resources
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.main.resources
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.SplashScreen.resources
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.welcome.resources
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.Properties.Resources.resources
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.GenerateResource.Cache
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.TrustInfo.xml
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.exe.manifest
+C:\Users\nhatduong\Desktop\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.application
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\Interop.MSDAOSP.dll
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\Interop.SHDocVw.dll
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.ResolveComReference.cache
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.exe
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.pdb
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\SMOvietnam.exe.manifest
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\SMOvietnam.application
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\SMOvietnam.exe
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\SMOvietnam.pdb
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\Newtonsoft.Json.dll
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\bin\Debug\Newtonsoft.Json.xml
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.csprojResolveAssemblyReference.cache
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addImg.resources
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addNumberMobi.resources
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListSend.resources
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.addServerSMTP.resources
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.setupdevice.resources
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.main.resources
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.SplashScreen.resources
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.welcome.resources
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.Properties.Resources.resources
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.GenerateResource.Cache
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.TrustInfo.xml
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.exe.manifest
+D:\smo\winform\SMO20022015\SMO\SMOvietnam\obj\x86\Debug\SMOvietnam.application
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\Interop.MSDAOSP.dll
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\Interop.SHDocVw.dll
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.ResolveComReference.cache
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.exe
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.pdb
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\SMOvietnam.exe.manifest
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\SMOvietnam.application
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\SMOvietnam.exe
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\SMOvietnam.pdb
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\Newtonsoft.Json.dll
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\Newtonsoft.Json.xml
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.csprojResolveAssemblyReference.cache
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.addImg.resources
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.addNumberMobi.resources
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListSend.resources
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.addServerSMTP.resources
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.setupdevice.resources
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.main.resources
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.SplashScreen.resources
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.welcome.resources
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.Properties.Resources.resources
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.GenerateResource.Cache
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.TrustInfo.xml
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.exe.manifest
+D:\smo\winform\SMO20022015\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.application
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\Interop.MSDAOSP.dll
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\Interop.SHDocVw.dll
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.ResolveComReference.cache
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.exe
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.pdb
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\SMOvietnam.exe.manifest
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\SMOvietnam.application
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\SMOvietnam.exe
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\SMOvietnam.pdb
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\Newtonsoft.Json.dll
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\Newtonsoft.Json.xml
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.csprojResolveAssemblyReference.cache
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.addImg.resources
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.addNumberMobi.resources
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListSend.resources
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.addServerSMTP.resources
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.setupdevice.resources
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.main.resources
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.SplashScreen.resources
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.welcome.resources
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.Properties.Resources.resources
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.GenerateResource.Cache
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.TrustInfo.xml
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.exe.manifest
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.application
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\GSMCommServer.dll
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\GSMCommShared.dll
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\GSMCommunication.dll
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\bin\Debug\PDUConverter.dll
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.setupSendSms.resources
+D:\smo\winform\SMO20022015\New folder (2)\SMO - Copy (2) - Copy\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListCheck.resources
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\Interop.MSDAOSP.dll
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\Interop.SHDocVw.dll
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.ResolveComReference.cache
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.exe
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.pdb
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\bin\Debug\SMOvietnam.exe.manifest
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\bin\Debug\SMOvietnam.application
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\bin\Debug\SMOvietnam.exe
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\bin\Debug\SMOvietnam.pdb
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\bin\Debug\GSMCommServer.dll
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\bin\Debug\GSMCommShared.dll
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\bin\Debug\GSMCommunication.dll
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\bin\Debug\Newtonsoft.Json.dll
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\bin\Debug\PDUConverter.dll
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\bin\Debug\Newtonsoft.Json.xml
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.csprojResolveAssemblyReference.cache
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.addImg.resources
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.addNumberMobi.resources
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListSend.resources
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.addServerSMTP.resources
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListCheck.resources
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.ManageAttackMail.resources
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.setupSendSms.resources
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.setupdevice.resources
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.main.resources
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.SplashScreen.resources
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.welcome.resources
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.Properties.Resources.resources
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.GenerateResource.Cache
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.TrustInfo.xml
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.exe.manifest
+D:\smo\winform\SMO20022015\New folder (2)\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.application
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\Interop.MSDAOSP.dll
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\Interop.SHDocVw.dll
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.ResolveComReference.cache
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.exe
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.pdb
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\bin\Debug\SMOvietnam.exe.manifest
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\bin\Debug\SMOvietnam.application
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\bin\Debug\SMOvietnam.exe
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\bin\Debug\SMOvietnam.pdb
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\bin\Debug\GSMCommServer.dll
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\bin\Debug\GSMCommShared.dll
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\bin\Debug\GSMCommunication.dll
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\bin\Debug\Newtonsoft.Json.dll
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\bin\Debug\PDUConverter.dll
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\bin\Debug\Newtonsoft.Json.xml
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.csprojResolveAssemblyReference.cache
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.addImg.resources
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.addNumberMobi.resources
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListSend.resources
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.addServerSMTP.resources
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListCheck.resources
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.ManageAttackMail.resources
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.setupSendSms.resources
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.setupdevice.resources
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.main.resources
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.SplashScreen.resources
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.welcome.resources
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.Properties.Resources.resources
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.GenerateResource.Cache
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.TrustInfo.xml
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.exe.manifest
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.application
+D:\smo\winform\SMO20022015\New folder (2)\Clone\backup\SMOvietnam\bin\Debug\sample.xlsx
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\Interop.MSDAOSP.dll
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.ResolveComReference.cache
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.exe
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.pdb
+C:\Users\khainv\Downloads\backup\SMOvietnam\bin\Debug\sample.xlsx
+C:\Users\khainv\Downloads\backup\SMOvietnam\bin\Debug\SMOvietnam.exe.manifest
+C:\Users\khainv\Downloads\backup\SMOvietnam\bin\Debug\SMOvietnam.application
+C:\Users\khainv\Downloads\backup\SMOvietnam\bin\Debug\SMOvietnam.exe
+C:\Users\khainv\Downloads\backup\SMOvietnam\bin\Debug\SMOvietnam.pdb
+C:\Users\khainv\Downloads\backup\SMOvietnam\bin\Debug\GSMCommServer.dll
+C:\Users\khainv\Downloads\backup\SMOvietnam\bin\Debug\GSMCommShared.dll
+C:\Users\khainv\Downloads\backup\SMOvietnam\bin\Debug\GSMCommunication.dll
+C:\Users\khainv\Downloads\backup\SMOvietnam\bin\Debug\Newtonsoft.Json.dll
+C:\Users\khainv\Downloads\backup\SMOvietnam\bin\Debug\PDUConverter.dll
+C:\Users\khainv\Downloads\backup\SMOvietnam\bin\Debug\Newtonsoft.Json.xml
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.csprojResolveAssemblyReference.cache
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.addImg.resources
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.addNumberMobi.resources
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListSend.resources
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.addServerSMTP.resources
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListCheck.resources
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.ManageAttackMail.resources
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.setupSendSms.resources
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.setupdevice.resources
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.main.resources
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.SplashScreen.resources
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.welcome.resources
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.Properties.Resources.resources
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.GenerateResource.Cache
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.TrustInfo.xml
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.exe.manifest
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.application
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.templateEmail.resources
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.save_email_tmp.resources
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.mailPending.resources
+C:\Users\khainv\Downloads\backup\SMOvietnam\obj\x86\Debug\SMOvietnam.mailsend.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\Interop.MSDAOSP.dll
+D:\beecom\SMOvietnam\obj\x86\Debug\Interop.SHDocVw.dll
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.csproj.ResolveComReference.cache
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.exe
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.pdb
+D:\beecom\SMOvietnam\bin\Debug\sample.xlsx
+D:\beecom\SMOvietnam\bin\Debug\SMOvietnam.exe.manifest
+D:\beecom\SMOvietnam\bin\Debug\SMOvietnam.application
+D:\beecom\SMOvietnam\bin\Debug\SMOvietnam.exe
+D:\beecom\SMOvietnam\bin\Debug\SMOvietnam.pdb
+D:\beecom\SMOvietnam\bin\Debug\GSMCommServer.dll
+D:\beecom\SMOvietnam\bin\Debug\GSMCommShared.dll
+D:\beecom\SMOvietnam\bin\Debug\GSMCommunication.dll
+D:\beecom\SMOvietnam\bin\Debug\Newtonsoft.Json.dll
+D:\beecom\SMOvietnam\bin\Debug\PDUConverter.dll
+D:\beecom\SMOvietnam\bin\Debug\Newtonsoft.Json.xml
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.addImg.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.addNumberMobi.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListSend.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.addServerSMTP.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.addEmailToListCheck.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.mailsend.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.mailPending.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.save_email_tmp.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.templateEmail.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.ManageAttackMail.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.setupSendSms.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.setupdevice.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.main.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.SplashScreen.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.welcome.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.Properties.Resources.resources
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.TrustInfo.xml
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.exe.manifest
+D:\beecom\SMOvietnam\obj\x86\Debug\SMOvietnam.application
+D:\beecom\SMOvietnam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\beecom\SMOvietnam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\beecom\SMOvietnam\obj\x86\Debug\GenerateResource.write.1.tlog
